@@ -1,0 +1,19 @@
+{
+  "name": "hangman",
+  "version": "0.0.1",
+  "description": "The applications description is missing because im to lazy to write.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hangman",
+    "Game"
+  ],
+  "author": "Alexander Robinson",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "require": "^2.4.20"
+  }
+}
